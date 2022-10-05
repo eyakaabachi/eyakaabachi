@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyakaabachi&label=Profile%20views&color=0e75b6&style=flat" alt="eyakaabachi" /> </p>
  </p>
 
-- 🔭 I’m currently working on **Reinforcement learning modules**
+- 🔭 I’m currently working on **Reinforcement learning modals**
 
 - 🌱 I’m currently learning **Machine learning & deep learning**
 
