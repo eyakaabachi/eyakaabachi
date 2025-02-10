@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Eya Kaabachi</h1>
-<h3 align="center">A passionate Software Engineering student & AI enthusiast from Tunisia</h3>
+<h3 align="center">A passionate Software Engineer & AI enthusiast from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/yC3opMMqDkDS_7KvB1rv2uQ2VyPiJo6sIJiXGj8IxjM/rs:fit:500:270:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzRjL2Q2/L2VhLzRjZDZlYWE1/OTk4NTE3MjVhYTVh/MTk1ZDE2MmZiMjBk/LmdpZg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyakaabachi&label=Profile%20views&color=0e75b6&style=flat" alt="eyakaabachi" /> </p>
  </p>
 
-- 🔭 I’m currently working on **Reinforcement learning modals**
+- 🔭 I’m currently working in **CYTEKIA**
 
-- 🌱 I’m currently learning **Machine learning & deep learning**
-
-- 👯 I’m looking for **an end of study internship in the field of AI**
+- 🌱 I’m currently working with **NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Eyakaabachi](https://github.com/Eyakaabachi)
 
 - 💬 Ask me about **Python, Java, Spring Boot, Django..**
 
-- 📫 How to reach me **eya.kaabachi@esprit.tn**
+- 📫 How to reach me **eya.kaabachi@hotmail.com**
 
 - ⚡ Fun fact **I am a very funny person and I love cats.**
 
